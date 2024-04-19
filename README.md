@@ -1,4 +1,8 @@
 # Memrise Point Hack
+
+![Static Badge](https://img.shields.io/badge/Validated-Apr%2019%202024-brightgreen?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Powered%20By-Gearheart%20Studios-tan?style=flat-square)
+
 ### **⚠️DISCLAIMER⚠️** These scripts are designed purely for educational purposes and may not be used to cheat (See Terms Of Use). I do not condone cheating this is made to test the capability of JS. 
 
 ## Terms Of Use
