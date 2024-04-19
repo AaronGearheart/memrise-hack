@@ -1,5 +1,20 @@
 # Memrise Point Hack
-### **⚠️DISCLAIMER!⚠️** These scripts are designed purely for educational purposes and if used to cheat in school could get you in serious trouble. I do not condone cheating this is made to test the capability of JS. USE AT YOUR OWN DISCRETION
+### **⚠️DISCLAIMER⚠️** These scripts are designed purely for educational purposes and if used to cheat in school could get you in serious trouble. I do not condone cheating this is made to test the capability of JS. USE AT YOUR OWN DISCRETION
+
+## Terms Of Use
+Before you proceed, please read the following terms carefully. By accessing or using any of this code, you agree to abide by these terms and conditions.
+#### 1. Fair Use
+You will not use this script to gain an unfair advantage over others.
+#### 2. Cheating
+You may not use this project to:
+- Obtain unfair advantage in exams, quizzes, assignments, or any other academic assessments.
+- Engage in any form of cheating or deception in educational settings.
+- Circumvent academic integrity policies, guidelines, or regulations.
+#### 3. Local Law Compliance
+While 99.99% of users will never have an issue with this, uses for this project **MUST** abide by all local laws and regulations.
+<hr>
+Thank you for using this project and I hope this is a handy educational project to demonstrate the power of JS and its capabilities.
+
 ## How To Setup
 **If you can't enter the inspect panel you need to make the JS a bookmarklet generator such as [this one](https://caiorss.github.io/bookmarklet-maker/) made by [caiross](https://github.com/caiorss) to run it**
 1. Login to your Memrise course. As of Apr. 18, 2024 community courses have moved so this may be in a new location. Navigate to the course overview where you can see the list of words. 
@@ -14,6 +29,7 @@
 ![main.js in action](assets/mainjsdemo.png)
 > If you recieve an error when you hit the space bar, go to the [troubleshooting](#troubleshooting) section.
 5. Enjoy 🎉
+> Remember don't use this to cheat. You can use it to learn JS by example as it has fairly good comments.
 
 # Troubleshooting
 **If you get an error when using load.js you may be on the wrong webpage or the structure of the page may have changed patching this method. Terribly sorry but there isn't much I can do about this but if you make a Github issue I will try to patch this or another user may make a pull request to fix it.** <hr>
