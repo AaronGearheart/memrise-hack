@@ -1,2 +1,4 @@
-# memrise-hack
-A Simple JS Hack For Memrise To Get Easy Points
+# Memrise Point Hack
+## How To Setup
+In Progress
+
