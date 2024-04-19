@@ -1,5 +1,5 @@
 # Memrise Point Hack
-### **⚠️DISCLAIMER⚠️** These scripts are designed purely for educational purposes and if used to cheat in school could get you in serious trouble. I do not condone cheating this is made to test the capability of JS. USE AT YOUR OWN DISCRETION
+### **⚠️DISCLAIMER⚠️** These scripts are designed purely for educational purposes and may not be used to cheat (See Terms Of Use). I do not condone cheating this is made to test the capability of JS. 
 
 ## Terms Of Use
 Before you proceed, please read the following terms carefully. By accessing or using any of this code, you agree to abide by these terms and conditions.
