@@ -1,7 +1,8 @@
 # Memrise Point Hack
 ### **⚠️DISCLAIMER!⚠️** These scripts are designed purely for educational purposes and if used to cheat in school could get you in serious trouble. I do not condone cheating this is made to test the capability of JS. USE AT YOUR OWN DISCRETION
 ## How To Setup
-1. Login to your Memrise course. As of Apr. 18, 2024 community courses have moved so this may be in a new location. Navigate to the course overview where you can see the list of words. <br>
+**If you can't enter the inspect panel you need to make the JS a bookmarklet generator such as [this one](https://caiorss.github.io/bookmarklet-maker/) made by [caiross](https://github.com/caiorss) to run it**
+1. Login to your Memrise course. As of Apr. 18, 2024 community courses have moved so this may be in a new location. Navigate to the course overview where you can see the list of words. 
 ![Example Memrise Course](assets/examplecourse.png)
 > This may look different from yours as some elements have been changed for my privacy.
 2. Paste the [load.js](load.js) file contents into the Chrome console. You can open the chrome console with F12 or by right-clicking and choosing inspect. From here choose Console and paste the [load.js](load.js) file content into it.
